@@ -48,5 +48,5 @@ def double_and_add(multi, N, p, a):
 p = 9739
 a = 497
 b = 1768
-N = (5323, 5438)
-print(double_and_add(1337, N, p, a))
+N = (2339, 2213)
+print(double_and_add(7863, N, p, a))
